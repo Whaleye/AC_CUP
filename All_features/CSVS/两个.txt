@@ -1,0 +1,35 @@
+['D_BU_A.csv', 'SOP_j_Material_Class.csv']
+0.87， 0.74 0.72
+
+['D_BU_A.csv', 'SOP_NV_Variance.csv']
+0.71
+
+['D_BU_A.csv', 'SOP_j_sales_organization.csv']
+0.72. 0.82
+
+['D_BU_A.csv', 'SOP_j_net_value.csv']
+0.75
+
+['D_BU_A.csv', 'SOP_j_Num_Items.csv']
+0.74
+
+['D_BU_A.csv', 'SOP_NV_Variance.csv']
+0.71
+
+['D_BU_A.csv', 'Zhong_NumItem_STP.csv']
+0.7
+
+['D_BU_B.csv', 'SOP_j_c_m_BU_A.csv']
+0.71， 0.71
+
+['D_BU_B.csv', 'SOP_j_Material_Class.csv']
+0.74
+
+['D_BU_B.csv', 'SOP_j_net_value.csv']
+0.739
+
+['D_BU_C.csv', 'SOP_j_net_value.csv']
+0.75
+
+['D_BU_C.csv', 'SOP_j_sales_order_num.csv']
+0.75

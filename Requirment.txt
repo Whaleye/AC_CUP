@@ -1,0 +1,16 @@
+Please 
+
+Jupyter notebook: sklearn, pandas
+
+
+R: 	install.packages('IRkernel')
+	library(data.table)
+	library(magrittr)
+	library(tidyr)
+	library(dplyr)
+
+First Run join_the_table.ipynb
+Then Run Get_TraingData.R
+Finally Run Classification_v2.ipynb
+
+Get the result in result folder

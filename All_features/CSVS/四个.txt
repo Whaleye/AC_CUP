@@ -1,0 +1,113 @@
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_c_m_BU_A.csv']
+0.74
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_c_m_BU_A.csv']
+0.73
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_c_m_BU_A.csv']
+0.7
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_Material_Class.csv', 'SOP_j_net_value.csv']
+0.72， 0.77
+
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.75
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.77
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_Num_Items.csv', 'SOP_j_sales_order_num.csv']
+0.72
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_sales_order_num.csv', 'SOP_j_sales_organization.csv']
+0.71
+
+
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_NI_Variance.csv', 'SOP_NV_Variance.csv']
+0.73
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_NV_Variance.csv', 'Zhong_NumItem_STP.csv']
+0.74
+
+['D_BU_A.csv', 'D_BU_B.csv', 'SOP_j_sales_order_num.csv', 'SOP_j_sales_organization.csv']
+0.75
+
+['D_BU_A.csv', 'D_BU_C.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv']
+0.78
+
+['D_BU_A.csv', 'D_BU_C.csv', 'SOP_NI_Variance.csv', 'SOP_NV_Variance.csv']
+0.75
+
+['D_BU_A.csv', 'D_BU_C.csv', 'SOP_j_Material_Class.csv', 'SOP_j_net_value.csv']
+0.78
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_Material_Class.csv']
+0.77
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_Material_Class.csv']
+0.76
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.75
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.75
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_Num_Items.csv', 'SOP_j_sales_order_num.csv']
+0.76
+
+['D_BU_A.csv', 'SOP_j_Business_Unit.csv', 'SOP_NI_Variance.csv', 'SOP_NV_Variance.csv']
+0.8
+
+		['D_BU_A.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_Material_Class.csv', 'SOP_j_net_value.csv']
+		0.82
+
+['D_BU_A.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_Material_Class.csv', 'SOP_j_net_value.csv']
+0.76
+
+['D_BU_A.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.8
+
+['D_BU_A.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_sales_order_num.csv', 'SOP_j_sales_organization.csv']
+0.83
+
+		['D_BU_A.csv', 'SOP_j_Material_Class.csv', 'SOP_j_Num_Items.csv', 'SOP_j_sales_order_num.csv']
+		0.86
+
+		['D_BU_A.csv', 'SOP_j_Material_Class.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv']
+		0.84
+
+['D_BU_A.csv', 'SOP_j_net_value.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv']
+0.82
+
+['D_BU_A.csv', 'SOP_j_Num_Items.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv']
+0.795
+
+['D_BU_B.csv', 'D_BU_C.csv', 'SOP_j_net_value.csv', 'SOP_j_Num_Items.csv']
+0.81
+
+['D_BU_B.csv', 'SOP_j_Business_Unit.csv', 'SOP_j_Material_Class.csv', 'SOP_j_net_value.csv']
+0.81
+
+['D_BU_B.csv', 'SOP_j_c_m_BU_A.csv', 'SOP_j_sales_order_num.csv', 'SOP_j_sales_organization.csv']
+0.81
+
+['D_BU_B.csv', 'SOP_j_sales_order_num.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv']
+0.82
+
+['D_BU_B.csv', 'SOP_j_sales_organization.csv', 'SOP_NI_Variance.csv', 'SOP_NV_Variance.csv']
+0.82
+
+
+
+
+
+
+
+
+
+
+
